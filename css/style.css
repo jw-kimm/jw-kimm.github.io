@@ -551,6 +551,7 @@ a.icon {
     float: left;
     overflow: hidden;
     margin-bottom: 25px;
+    font-size: 84px;
 }
 
 .iso-box > a {
@@ -583,7 +584,7 @@ a.icon {
 /* about section styles
 /* ========================================== */
 #about {
-  padding-top: 5rem;
+  padding-top: 2rem;
 }
 
 #about .col-md-4 {
@@ -604,7 +605,7 @@ a.icon {
 /* ========================================== */
 #blog, 
 #single-post {
-  padding-top: 4rem;
+  /* padding-top: 4rem; */
   padding-bottom: 6rem;
 }
 
